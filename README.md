@@ -2,6 +2,7 @@
 结论：梯子IP被油管单独封禁了。
 
 方案：1:如果你是用飞机场的话，换个节点就行了。2:用warp套一层IP，不用梯子的ip对油管进行访问 
+[参考别人的warp设置chatGPT方案](https://github.com/fscarmen/warp-sh?tab=readme-ov-file#warp-socks5-%E6%88%96-interface-%E5%88%86%E6%B5%81%E6%A8%A1%E6%9D%BF%E5%8F%8A%E8%A7%A3%E9%94%81-chatgpt-%E7%9A%84%E6%96%B9%E6%B3%95)
 
 进阶优化方案：因为warp套一层全局的话，会导致所有流量都少许变慢，可以在x-ui里面配置只选择油管域名走warp的ip地址，就跟当年解锁chatGPT差不多的方式。
 
